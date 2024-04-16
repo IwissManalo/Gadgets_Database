@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "6619e4d2aa4ec26fdde923cf"
+  },
+  "brand": "Apple",
+  "model": "Iphone 15",
+  "locations": [
+    {
+      "location": "Philippines",
+      "currency": "Peso",
+      "price": 50000
+    },
+    {
+      "location": "Paris",
+      "currency": "Euro",
+      "price": 1600
+    },
+    {
+      "location": "Japan",
+      "currency": "Yen",
+      "price": 134000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6619e839aa4ec26fdde923d2"
+  },
+  "brand": "Samsung",
+  "model": "Galaxy S24",
+  "price": 800,
+  "currency": "Dollar"
+},
+{
+  "_id": {
+    "$oid": "6619ea2baa4ec26fdde923d3"
+  },
+  "brand": "Oppo",
+  "currency": "Dollar",
+  "models": [
+    {
+      "name": "A98 5G",
+      "price": 19000
+    },
+    {
+      "name": "A58",
+      "price": 10000
+    },
+    {
+      "name": "Reno10 Pro 5G",
+      "price": 30000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6619eb6daa4ec26fdde923d5"
+  },
+  "brand": "Huawei",
+  "model": "P60 Pro",
+  "currencies": [
+    {
+      "currency": "Peso",
+      "price": 59000
+    },
+    {
+      "currency": "Dollar",
+      "price": 1040
+    },
+    {
+      "currency": "Euro",
+      "price": 978
+    },
+    {
+      "currency": "Yen",
+      "price": 159852
+    }
+  ]
+}]
